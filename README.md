@@ -1,4 +1,4 @@
-### Hi there 👋
+### Fucky Wucky 👋
 
 <!--
 **rasm006p/rasm006p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
