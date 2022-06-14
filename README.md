@@ -1,4 +1,4 @@
-### so this is how it works?... Nah still dont et it  👋
+### So this is how it works?... Nah still dont et it  👋
 
 <!--
 **rasm006p/rasm006p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
