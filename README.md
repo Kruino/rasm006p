@@ -7,13 +7,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=1000&color=F77A24&center=true&vCenter=true&width=435&lines=Hello+there+Fellow+traveller.+My+Name+is+Rasmus." alt="Typing SVG" /></a>
 </p>
 
-## Streak
+--- 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com?user=rasm006p&theme=horizon&hide_border=true&border_radius=0.5&date_format=j%20M%5B%20Y%5D&background=110F1100&ring=DD843A&currStreakNum=DDDDDD&sideLabels=DD843A&currStreakLabel=DDDDDD&stroke=DD2727&fire=DD2727&sideNums=DDDDDD"/>
   </a>
 </p>
-
 
 ## Tools and Programming Languages
 
